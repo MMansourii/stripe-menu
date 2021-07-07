@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/stripe/menu/static/css/main.adc7fc53.chunk.css",
+    "main.js": "/github.io/stripe/menu/static/js/main.6942afa1.chunk.js",
+    "main.js.map": "/github.io/stripe/menu/static/js/main.6942afa1.chunk.js.map",
+    "runtime-main.js": "/github.io/stripe/menu/static/js/runtime-main.86e03eff.js",
+    "runtime-main.js.map": "/github.io/stripe/menu/static/js/runtime-main.86e03eff.js.map",
+    "static/js/2.e1e77988.chunk.js": "/github.io/stripe/menu/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/github.io/stripe/menu/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/github.io/stripe/menu/index.html",
+    "precache-manifest.b961332496c403277980216517d0de2e.js": "/github.io/stripe/menu/precache-manifest.b961332496c403277980216517d0de2e.js",
+    "service-worker.js": "/github.io/stripe/menu/service-worker.js",
+    "static/css/main.adc7fc53.chunk.css.map": "/github.io/stripe/menu/static/css/main.adc7fc53.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/github.io/stripe/menu/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/github.io/stripe/menu/static/media/hero.882a211a.svg",
+    "static/media/logo.svg": "/github.io/stripe/menu/static/media/logo.86d618b5.svg",
+    "static/media/phone.svg": "/github.io/stripe/menu/static/media/phone.e908706c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86e03eff.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.adc7fc53.chunk.css",
+    "static/js/main.6942afa1.chunk.js"
+  ]
+}
